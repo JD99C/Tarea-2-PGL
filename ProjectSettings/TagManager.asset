@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PickUp
   - Limite
+  - PickUp2
   layers:
   - Default
   - TransparentFX

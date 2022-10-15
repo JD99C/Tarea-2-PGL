@@ -10,8 +10,14 @@ public class GameMenu : MonoBehaviour
     {
         SceneManager.LoadScene("MiniGame");
     }
-    public void SalirAplicacion()
+
+    public void ReiniciarJuego2()
     {
-        Application.Quit();
+        SceneManager.LoadScene("MiniGame2");
+    }
+
+    public void VolverAlMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
     }
 }
