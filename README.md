@@ -65,3 +65,38 @@ La segunda forma de hacerlo es creando el ejecutable del juego:
 * 6º Si no aparece ninguna escena, tenemos que colocarlas, para ello volvemos a la carpeta Scenes en el explorador de la parte inferior del proyecto y las arrastramos a ese cuadro en este orden: 1º MainMenu 2º MiniGame 3º MiniGame2.  
 * 7º Una vez hecho eso en esa misma ventana en el apartado de plataforma seleccionamos windows , mac , linux y le damos al boton "build" que esta en la parte inferior de la ventana.
 * 8º Selecciona una carpeta en donde quieres que se te guarde el proyecto. Una vez termine vete a esa carpeta y ejecuta el .exe con nombre "Tarea 2 PGL".
+
+## Controles 🔌
+
+Si usas teclado:
+
+* WASD o las flechas para moverte
+* Espacio para saltar
+
+Si usas un Mando de Xbox:
+
+* El joystick izquierdo para el movimiento
+* El boton Y para saltar
+
+## Construido con 🛠️
+
+_Herramientas usadas en el proyecto:_
+
+* Unity
+* Ejemplos de Unity
+* Youtube para ver Ejemplos
+ 
+## Autores ✒️
+
+_Mención a todos aquellos que ayudaron a levantar el proyecto:_
+
+* **Yo - Juan de Dios** - *Todo el proyecto* 
+* **Profesor - Tiburcio** - *Documentación en PDf para poder hacer el proyecto*
+
+## Licencia 📄
+
+Libre de toda Licencia
+
+## Expresiones de Gratitud 🎁
+
+* Gracias al profesor Tiburcio por dar los PDF y ayudar en las clases de Tutoria para poder terminar el proyecto.
