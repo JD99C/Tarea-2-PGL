@@ -63,7 +63,7 @@ La segunda forma de hacerlo es creando el ejecutable del juego:
 * 4º Se nos abrira una ventana en esa ventana veremos un cuadro que pone "Scenes in build".
 * 5º Nos fijamos si en ese cuadro aparece las escenas enumeradas o si esta vacio. Si aparecen las escenas las dejamos como estan y vamos al paso 7.
 * 6º Si no aparece ninguna escena, tenemos que colocarlas, para ello volvemos a la carpeta Scenes en el explorador de la parte inferior del proyecto y las arrastramos a ese cuadro en este orden: 1º MainMenu 2º MiniGame 3º MiniGame2.  
-* 7º Una vez hecho eso en esa misma ventana en el apartado de plataforma seleccionamos windows , mac , linux y le damos al boton "build" que esta en la parte inferior de la ventana.
+* 7º Una vez hecho eso en esa misma ventana en el apartado de plataforma seleccionamos windows , mac , linux y le damos al boton "build" que está en la parte inferior de la ventana.
 * 8º Selecciona una carpeta en donde quieres que se te guarde el proyecto. Una vez termine vete a esa carpeta y ejecuta el .exe con nombre "Tarea 2 PGL".
 
 ## Controles 🔌
