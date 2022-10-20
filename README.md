@@ -43,7 +43,7 @@ _Aquí se indican las instrucciones para ejecutar el proyecto. Pero se puede eje
 La primera forma es probarlo desde el propio editor para ello seguimos estos sencillos pasos:
 
 * 1º Con el proyecto abierto en la parte inferior veremos que aparece como si fuera un explorador de los archivos del proyecto.
-* 2º Entramos en la carpeta "assets > Scenes". Una vez dentro de la carpeta Scenes veremos que hay 3 escenas
+* 2º Entramos en la carpeta "assets > Scenes". Una vez dentro de la carpeta Scenes veremos que hay 3 escenas.
 * 3º Hacemos doble click en la escena que se llama "MainMenu". Con eso se nos abrira la escena del menu principal.
 * 4º Pero antes de ejecutar vamos a la parte superior y pulsamos en File > Build Settings...
 * 5º Se nos abrira una ventana en esa ventana veremos un cuadro que pone "Scenes in build".
@@ -55,3 +55,13 @@ Para ver los controles es en el siguiente apartado.
 
 #### 2º Forma:
 
+La segunda forma de hacerlo es creando el ejecutable del juego:
+
+* 1º Con el proyecto abierto en la parte inferior veremos que aparece como si fuera un explorador de los archivos del proyecto.
+* 2º Entramos en la carpeta "assets > Scenes". Una vez dentro de la carpeta Scenes veremos que hay 3 escenas.
+* 3º Ahora vamos a la parte superior y pulsamos en File > Build Settings...
+* 4º Se nos abrira una ventana en esa ventana veremos un cuadro que pone "Scenes in build".
+* 5º Nos fijamos si en ese cuadro aparece las escenas enumeradas o si esta vacio. Si aparecen las escenas las dejamos como estan y vamos al pasos 7.
+* 6º Si no aparece ninguna escena, tenemos que colocarlas, para ello volvemos a la carpeta Scenes en el explorador de la parte inferior del proyecto y las arrastramos a ese cuadro en este orden: 1º MainMenu 2º MiniGame 3º MiniGame2.  
+* 7º Una vez hecho eso en esa misma ventana en el apartado de plataforma seleccionamos windows , mac , linux y le damos al boton "build" que esta en la parte inferior de la ventana.
+* 8º Selecciona una carpeta en donde quieres que se te guarde el proyecto. Una vez termine vete a esa carpeta y ejecuta el .exe con nombre "Tarea 2 PGL".
